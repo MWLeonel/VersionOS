@@ -1,0 +1,15 @@
+C:\Users\Max\Desktop\Bimo\Bimo\bin\Debug\netcoreapp3.1\Bimo.exe
+C:\Users\Max\Desktop\Bimo\Bimo\bin\Debug\netcoreapp3.1\Bimo.deps.json
+C:\Users\Max\Desktop\Bimo\Bimo\bin\Debug\netcoreapp3.1\Bimo.runtimeconfig.json
+C:\Users\Max\Desktop\Bimo\Bimo\bin\Debug\netcoreapp3.1\Bimo.runtimeconfig.dev.json
+C:\Users\Max\Desktop\Bimo\Bimo\bin\Debug\netcoreapp3.1\Bimo.dll
+C:\Users\Max\Desktop\Bimo\Bimo\bin\Debug\netcoreapp3.1\Bimo.pdb
+C:\Users\Max\Desktop\Bimo\Bimo\bin\Debug\netcoreapp3.1\Figgle.dll
+C:\Users\Max\Desktop\Bimo\Bimo\obj\Debug\netcoreapp3.1\Bimo.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\Bimo\Bimo\obj\Debug\netcoreapp3.1\Bimo.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\Bimo\Bimo\obj\Debug\netcoreapp3.1\Bimo.AssemblyInfo.cs
+C:\Users\Max\Desktop\Bimo\Bimo\obj\Debug\netcoreapp3.1\Bimo.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\Bimo\Bimo\obj\Debug\netcoreapp3.1\Bimo.csproj.CopyComplete
+C:\Users\Max\Desktop\Bimo\Bimo\obj\Debug\netcoreapp3.1\Bimo.dll
+C:\Users\Max\Desktop\Bimo\Bimo\obj\Debug\netcoreapp3.1\Bimo.pdb
+C:\Users\Max\Desktop\Bimo\Bimo\obj\Debug\netcoreapp3.1\Bimo.genruntimeconfig.cache
