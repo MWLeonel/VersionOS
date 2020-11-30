@@ -43,4 +43,4 @@ Instituição Escolar
 <hr>
 
 Todos os direitos reservados.<br>
-&copy;MWLeonel 2020 (https://github.com/MWLeonel)
+&copy;[MWLeonel 2020](https://github.com/MWLeonel)
