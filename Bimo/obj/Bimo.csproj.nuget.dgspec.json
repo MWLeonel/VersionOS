@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Max\\Desktop\\Bimo\\Bimo\\Bimo.csproj": {}
+    "C:\\Users\\Igreja Pedreira\\Desktop\\VersionOS\\Bimo\\Bimo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Max\\Desktop\\Bimo\\Bimo\\Bimo.csproj": {
+    "C:\\Users\\Igreja Pedreira\\Desktop\\VersionOS\\Bimo\\Bimo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Max\\Desktop\\Bimo\\Bimo\\Bimo.csproj",
+        "projectUniqueName": "C:\\Users\\Igreja Pedreira\\Desktop\\VersionOS\\Bimo\\Bimo.csproj",
         "projectName": "Bimo",
-        "projectPath": "C:\\Users\\Max\\Desktop\\Bimo\\Bimo\\Bimo.csproj",
-        "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Max\\Desktop\\Bimo\\Bimo\\obj\\",
+        "projectPath": "C:\\Users\\Igreja Pedreira\\Desktop\\VersionOS\\Bimo\\Bimo.csproj",
+        "packagesPath": "C:\\Users\\Igreja Pedreira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Igreja Pedreira\\Desktop\\VersionOS\\Bimo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Igreja Pedreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

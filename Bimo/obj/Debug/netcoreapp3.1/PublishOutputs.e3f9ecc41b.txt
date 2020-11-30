@@ -1,0 +1,6 @@
+C:\Users\Igreja Pedreira\Desktop\VersionOS\Bimo\bin\Debug\netcoreapp3.1\publish\Bimo.exe
+C:\Users\Igreja Pedreira\Desktop\VersionOS\Bimo\bin\Debug\netcoreapp3.1\publish\Bimo.dll
+C:\Users\Igreja Pedreira\Desktop\VersionOS\Bimo\bin\Debug\netcoreapp3.1\publish\Bimo.deps.json
+C:\Users\Igreja Pedreira\Desktop\VersionOS\Bimo\bin\Debug\netcoreapp3.1\publish\Bimo.runtimeconfig.json
+C:\Users\Igreja Pedreira\Desktop\VersionOS\Bimo\bin\Debug\netcoreapp3.1\publish\Bimo.pdb
+C:\Users\Igreja Pedreira\Desktop\VersionOS\Bimo\bin\Debug\netcoreapp3.1\publish\Figgle.dll
